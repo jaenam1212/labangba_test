@@ -1,0 +1,122 @@
+[
+    {
+        "id":0,
+        "name":"에버콜라겐 X 지노마스터 🥇뉴트리스토어 싹쓸이 이벤트",
+        "Broadcasting": "네이버쇼핑LIVE",
+        "Classification": "식품",
+        "Time": "2023-01-24 'T' 09:59",
+        "Hits": 146000,
+        "SalesVolume": 1569,
+        "Sales": 219000000,
+        "NumberProducts": 20
+
+    },
+    {
+        "id":1,
+        "name":"다이슨 에어랩/슈퍼소닉 40만원대부터!",
+        "Broadcasting": "현대Hmall 쇼라",
+        "Classification": "디지털/가전",
+        "Time": "2023-01-23 'T' 20:45",
+        "Hits": 31000,
+        "SalesVolume": 128,
+        "Sales": 75530000,
+        "NumberProducts": 2
+
+    },
+    {
+        "id":2,
+        "name":"[브티나는 생활] 젠하이저 모멘텀 31만원대 특가찬스",
+        "Broadcasting": "CJ온스타일",
+        "Classification": "디지털/가전",
+        "Time": "2023-01-24 'T' 20:00",
+        "Hits": 39200,
+        "SalesVolume": 149,
+        "Sales": 69270000,
+        "NumberProducts": 10
+
+    },
+    {
+        "id":3,
+        "name":"[한샘 키친&바스] 온/오프라인 BEST 모음",
+        "Broadcasting": "현대Hmall 쇼라",
+        "Classification": "가구/인테리어",
+        "Time": "2023-01-24 'T' 20:00",
+        "Hits": 19200,
+        "SalesVolume": 25,
+        "Sales": 59450000,
+        "NumberProducts": 52
+
+    },
+    {
+        "id":4,
+        "name":"버버리 패딩/스카프 외 최대 12%쿠폰",
+        "Broadcasting": "현대Hmall 쇼라",
+        "Classification": "패션의류",
+        "Time": "2023-01-24 'T' 20:00",
+        "Hits": 19900,
+        "SalesVolume": 41,
+        "Sales": 48220000,
+        "NumberProducts": 14
+
+    },
+    {
+        "id":5,
+        "name":"프라다 가방 신상입고 ★한정수량★",
+        "Broadcasting": "현대Hmall 쇼라",
+        "Classification": "패션의류",
+        "Time": "2023-01-24 'T' 11:00",
+        "Hits": 23700,
+        "SalesVolume": 34,
+        "Sales": 37690000,
+        "NumberProducts": 23
+
+    },
+    {
+        "id":6,
+        "name":"🚨종료임박🚨 놓치면 후회! 역대급 전품목 특가 🌸",
+        "Broadcasting": "네이버쇼핑LIVE",
+        "Classification": "생활/건강",
+        "Time": "2023-01-24 'T' 21:59",
+        "Hits": 43400,
+        "SalesVolume": 4175,
+        "Sales": 36490000,
+        "NumberProducts": 8
+
+    },
+    {
+        "id":7,
+        "name":"나에게 맞는 김석진LAB 추천받고 50% 할인 받자😉",
+        "Broadcasting": "네이버쇼핑LIVE",
+        "Classification": "식품",
+        "Time": "2023-01-23 'T' 18:59",
+        "Hits": 1982,
+        "SalesVolume": 361,
+        "Sales": 34930000,
+        "NumberProducts": 16
+
+    },
+    {
+        "id":8,
+        "name":"⛄한파특보⛄KF94 컬러 마스크, 마지막 물량 최저가❗",
+        "Broadcasting": "네이버쇼핑LIVE",
+        "Classification": "생활/건강",
+        "Time": "2023-01-24 'T' 07:59",
+        "Hits": 61200,
+        "SalesVolume": 5041,
+        "Sales": 33760000,
+        "NumberProducts": 10
+
+    },
+    {
+        "id":9,
+        "name":"백화점 [리스트] 제일 잘나가는 신상",
+        "Broadcasting": "현대Hmall 쇼라",
+        "Classification": "패션의류",
+        "Time": "2023-01-24 'T' 23:00",
+        "Hits": 19000,
+        "SalesVolume": 529,
+        "Sales": 32830000,
+        "NumberProducts": 18
+
+    }
+]
