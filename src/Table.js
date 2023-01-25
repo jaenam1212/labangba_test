@@ -1,6 +1,7 @@
 import Table from 'react-bootstrap/Table';
 import JsonData from './data.json'
 import './Table.css';
+import SplitCount from './SplitCount';
 
 function LaTable() {
 
@@ -8,14 +9,16 @@ function LaTable() {
         (info)=> {
             return(
                 <tr>
-                    <td>{info.id +1}</td>
-                    <td>{info.name}</td>
-                    <td>{info.Broadcasting}</td>
-                    <td>{info.Classification}</td>
-                    <td>{info.Time}</td>
-                    <td>{info.Hits}</td>
+                    <td className='Number'>{info.id +1}</td>
+                    <td className='NameAll'><div className='dataName'>{info.name}</div><br/>
+                    <div className='BroadCasting'>{info.Broadcasting}</div></td>
+                    <td ><div className='Classification'>{info.Classification}</div></td>
+                    <td><div className='Date'>{info.Date}</div>
+                    <div className='Time'>{info.Time}</div></td>
+                    <td>{SplitCount(info.Hits)}
+                    </td>
                     <td>{info.SalesVolume}</td>
-                    <td>{info.Sales}</td>
+                    <td>{SplitCount(info.Sales)}</td>
                     <td>{info.NumberProducts}</td>
                 </tr>
             )
@@ -25,7 +28,7 @@ function LaTable() {
   return (
     <Table responsive>
       <thead className='List'>
-        <tr>
+        <tr className='topBar'>
           <th></th> 
             <th>방송정보</th>    
             <th>분류</th>  

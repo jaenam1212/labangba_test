@@ -9,6 +9,10 @@
   right: 80px;
   top: 20px;
 }
+.nav{
+  background-color: white;
+  color: white;
+}
 .user {
   position: fixed;
   right: 1%;
@@ -77,18 +81,76 @@
   color: rgba(39, 39, 39, 0.589);
 }
 .crossLine2{
-  width: 1000px;
+  width: 900px;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 7%;
+  margin-top: 5.5%;
   color: rgb(153, 153, 153);
   margin-left: 24%;
+  margin-bottom: -0.001px;
 
 }
 .Latable{
   
-  width: 1000px;
+  width: 900px;
   text-align: center;
   margin-left: 24%;
+}
+.footer{
+  height: 220px;
+}
+.footerInfo{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-size: 13px;
+  position: absolute;
+  margin-left: 450px;
+  text-align: center;
+  bottom: -30px;
+}
+.PersonalInfo{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-size: 13px;
+  margin-left: 610px;
+  bottom: -30px;
+  
+  position: absolute;
+}
+.TermsConditions{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-size: 13px;
+  margin-left: 740px;
+  position: absolute;
+  bottom: -30px;
+}
+.Contact{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-size: 13px;
+  margin-left: 820px;
+  position: absolute;
+  bottom: -30px;
+}
+.businessHours{
+  font-size: 10px;
+  color: darkgray;
+  position: absolute;
+  bottom: -100px;
+  margin-left: 1300px;
+  line-height: 3px;
+}
+.companyInfo{
+  font-size: 9px;
+  position: absolute;
+  margin-left: 450px;
+  bottom: -130px;
+  line-height: 3px;
+  color: darkgray;
 }
